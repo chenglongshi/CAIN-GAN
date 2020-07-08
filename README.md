@@ -4,4 +4,5 @@
 
 2.CACD数据集和Morph数据集
 # 结果：
+![image](https://github.com/chenglongshi/CAIN-GAN/blob/master/figure2.png)
 
